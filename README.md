@@ -56,8 +56,4 @@ The application will start running on `http://localhost:8080`.
 
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
